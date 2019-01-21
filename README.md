@@ -1,4 +1,4 @@
-#Twitch plays 2048
+# Twitch plays 2048
 Simple 2048 game made in Python 3 with Pyglet.
 It's is fully controllable by Twitch chat.
 ## Game controls (typed in chat)
