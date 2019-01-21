@@ -6,6 +6,6 @@ It's is fully controllable by Twitch chat.
 - down
 - left
 - right
-# Features
+## Features
 - Saves highscore + every nick who participated in chat to reach that highscore
 - Reconnects when connection to Twitch is interrupted (but it's buggy and sometimes doesn't work)
